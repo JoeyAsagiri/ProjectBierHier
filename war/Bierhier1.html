@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="http://maps.googleapis.com/maps/api/js"></script>
+<script>
+function initialize() {
+  var mapProp = {
+    center:new google.maps.LatLng(52.3799139,5.239922,14550),
+    zoom:12,
+    mapTypeId:google.maps.MapTypeId.ROADMAP
+  };
+  var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+}
+google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+<link rel="stylesheet" type="text/css" href="Stylesheet.css">
+<title>Contactpagina</title>
+</head>
+
+<header>
+	<h1> Contact </h1>
+	<nav style="background-color:blue;">
+		<a href="/random1/">HTML | </a>
+		<a href="/random2/">CSS | </a>
+		<a href="/random3/">JavaScript | </a>
+		<a href="/random4/">jQuery</a>
+	</nav>
+</header>
+
+<body>
+	<div id="googleMap" style="width:500px;height:380px;"></div>
+</body>
+
+<footer>
+	<a href="url">Contactpagina | </a>
+	<a href="url">Uitjes naar Concerten in Amsterdam | </a>
+	<a href="url">Sportevenementen in Almere | </a>
+	<a href="url">Overzicht restaurants en bars | </a>
+	<a href="url">Recepten voor kamerbewoners | </a>
+	<a href="url">Blog (Homepagina)</a>
+	<p> &#169 Copyright roc-dev.com 2015 </p>
+</footer>
+
+</html>
