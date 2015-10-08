@@ -14,12 +14,27 @@ a:link {
  text-decoration: none;
 }
 footer a:link, nav a:link {
+ font-family: 'Oswald', sans-serif;
  color: white;
+
+}
+
+footer {
+	margin-left: -8px;
+	margin-right: -8px;
 }
 nav {
- margin-top: -25px;
+margin-top: -22px;
+margin-right -8px;
+
 }
 #googleMap {
 	border: 1px solid black;
 	margin: 5px;
+}
+
+header {
+	margin-top: -21px;
+	margin-left: -8px;
+	margin-right: -8px;
 }
