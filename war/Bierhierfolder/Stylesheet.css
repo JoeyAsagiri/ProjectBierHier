@@ -49,4 +49,17 @@ header {
 	margin-left: -5px;
 	
 }
+<!--Sportevenementen in Almere-->
 
+#h1 {
+	font-family: 'Bree Serif', serif;
+	background-color: white;
+}
+#p {
+	font-family: 'Josefin Sans', sans-serif;
+	background-color: white;
+}
+#filmpje {
+	width: 500; 
+	height: 500;
+}
