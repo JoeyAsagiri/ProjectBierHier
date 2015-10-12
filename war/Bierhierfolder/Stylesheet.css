@@ -13,6 +13,9 @@ p {
 a:link {
  text-decoration: none;
 }
+a:visited{
+	color: white;
+}
 footer a:link, nav a:link {
  font-family: 'Oswald', sans-serif;
  color: white;
@@ -25,12 +28,14 @@ footer {
 }
 nav {
 margin-top: -22px;
-margin-right -8px;
+margin-right: -8px;
 
 }
 #Googlemaps {
 	border: 1px solid black;
 	margin: 5px;
+	width: 600px;
+	height: 400px;
 }
 
 header {
