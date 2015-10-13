@@ -83,6 +83,12 @@ header {
 	width: 420px;
 	height: 230px;
 }
+
+#blauweNav{background-color:blue;}
+#groeneNav{background-color:green;}
+#rodeNav{background-color:red;}
+#poepNav{background-color:brown;}
+
 <!--Sportevenementen in Almere-->
 
 #groteletters {
@@ -95,10 +101,6 @@ header {
 	background-color: white;
 	color: darkgrey;
 }
-#blauweNav{background-color:blue;}
-#groeneNav{background-color:green;}
-#rodeNav{background-color:red;}
-#poepNav{background-color:brown;}
 
 #filmpje {
 	width: 500px; 
