@@ -95,6 +95,7 @@ header {
 #groeneNav{background-color:green;}
 #rodeNav{background-color:red;}
 #poepNav{background-color:brown;}
+#kankerNav{background-color:black;}
 
 #youtube {
 	width: 500px; 
@@ -115,4 +116,12 @@ header {
 }
 #kleur{
 	background-color: lightyellow;
+}
+#bloggrotetekst{
+	font-family: 'Bevan', cursive;
+	color: darkred;
+}
+#blogkleinetekst{
+	font-family: 'Alegreya Sans SC', sans-serif;
+	color: darkgrey;
 }
