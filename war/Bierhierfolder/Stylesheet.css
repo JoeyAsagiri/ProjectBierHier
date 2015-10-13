@@ -73,10 +73,12 @@ header {
 #groteletters {
 	font-family: 'Bree Serif', serif;
 	background-color: white;
+	color: darkblue;
 }
 #kleineletters {
 	font-family: 'Josefin Sans', sans-serif;
 	background-color: white;
+	color: darkgrey;
 }
 #filmpje {
 	width: 500px; 
@@ -87,4 +89,3 @@ header {
 	width: 500px; 
 	height: 500px;
 }
-
