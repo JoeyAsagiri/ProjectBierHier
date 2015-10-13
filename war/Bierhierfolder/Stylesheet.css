@@ -6,12 +6,26 @@ footer {
 	text-align: center;
 	background-color: #808080;
 }
-h1 {
+#contactnav {
 	font-family: 'Oswald', sans-serif;
-	background-color: lightgrey;
+	color: darkgrey;
 }
-p { 
+#concertnav{
+	font-family: 'Montserrat', sans-serif;
+	color: darkgrey;
+}
+#concerttekst{
+	font-family: 'Droid Serif', serif;
+	color: darkgrey;
+}
+#restaurantnav{
+	font-family: 'Archivo Black', sans-serif;
+	color: darkblue;
+}
+
+#Google { 
 	font-family: 'Raleway', sans-serif;
+	color: black;
 }
 a:link {
 	text-decoration: none;
