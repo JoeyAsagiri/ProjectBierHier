@@ -3,7 +3,6 @@ html {
 }
 
 /* footers van elke pagina */
-
 footer {
 	clear: both;
 	text-align: center;
@@ -21,7 +20,6 @@ footer {
 }
 
 /* Navigatie bar Fonts */
-
 #contactnav {
 	font-family: 'Oswald', sans-serif;
 	color: darkgrey;
@@ -77,9 +75,7 @@ footer {
 	color: darkgrey;
 }
 
-
 /* kleur navigatie bars */
-
 a:link {
 	text-decoration: none;
 }
@@ -114,9 +110,7 @@ nav {
 	background-color: black;
 }
 
-
 /* grote en form van media */
-
 #Googlemaps {
 	border: 1px solid black;
 	margin: 5px;
