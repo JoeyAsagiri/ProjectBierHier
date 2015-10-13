@@ -1,11 +1,23 @@
 html {
 	min-width: 1220px;
 }
+
+<!--css voor footer van elke pagina-->
+
 footer {
 	clear: both;
 	text-align: center;
 	background-color: #808080;
 }
+footer a:link, nav a:link {
+	font-family: 'Oswald', sans-serif;
+	color: white;
+}
+footer {
+	margin-left: -8px;
+	margin-right: -8px;
+}
+<!--fonts voor elke pagina-->
 #contactnav {
 	font-family: 'Oswald', sans-serif;
 	color: darkgrey;
@@ -34,6 +46,24 @@ footer {
 	font-family: 'Varela', sans-serif;
 	color: black;
 }
+#bloggrotetekst{
+	font-family: 'Bevan', cursive;
+	color: darkred;
+}
+#sportnav{
+	font-family: 'Bree Serif', serif;
+	color: darkblue;
+}
+#sporttekst{
+	font-family: 'Josefin Sans', sans-serif;
+	color: darkgrey;
+}
+#blogkleinetekst{
+	font-family: 'Alegreya Sans SC', sans-serif;
+	color: darkgrey;
+}
+<!--Navigatie bar kleuren en locatie-->
+
 a:link {
 	text-decoration: none;
 }
@@ -41,18 +71,20 @@ a:visited{
 	color: white;
 	text-decoration: none;
 }
-footer a:link, nav a:link {
-	font-family: 'Oswald', sans-serif;
-	color: white;
-}
-footer {
-	margin-left: -8px;
-	margin-right: -8px;
-}
+
 nav {
 	margin-top: -22px;
 	margin-right: -8px;
 }
+
+#blauweNav{background-color:blue;}
+#groeneNav{background-color:green;}
+#rodeNav{background-color:red;}
+#poepNav{background-color:brown;}
+#kankerNav{background-color:black;}
+
+<!--Form plaatjes en filmpjes-->
+
 #Googlemaps {
 	border: 1px solid black;
 	margin: 5px;
@@ -91,12 +123,6 @@ header {
 	height: 230px;
 }
 
-#blauweNav{background-color:blue;}
-#groeneNav{background-color:green;}
-#rodeNav{background-color:red;}
-#poepNav{background-color:brown;}
-#kankerNav{background-color:black;}
-
 #youtube {
 	width: 500px; 
 	height: 500px;
@@ -106,22 +132,6 @@ header {
 	width: 500px; 
 	height: 500px;
 }
-#sportnav{
-	font-family: 'Bree Serif', serif;
-	color: darkblue;
-}
-#sporttekst{
-	font-family: 'Josefin Sans', sans-serif;
-	color: darkgrey;
-}
 #kleur{
 	background-color: lightyellow;
-}
-#bloggrotetekst{
-	font-family: 'Bevan', cursive;
-	color: darkred;
-}
-#blogkleinetekst{
-	font-family: 'Alegreya Sans SC', sans-serif;
-	color: darkgrey;
 }
