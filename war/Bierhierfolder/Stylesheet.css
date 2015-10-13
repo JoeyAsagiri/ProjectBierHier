@@ -2,6 +2,7 @@ html {
 	min-width: 1220px;
 }
 
+/* footers van elke pagina */
 
 footer {
 	clear: both;
@@ -19,7 +20,7 @@ footer {
 	margin-right: -8px;
 }
 
-
+/* Navigatie bar Fonts */
 
 #contactnav {
 	font-family: 'Oswald', sans-serif;
@@ -77,7 +78,7 @@ footer {
 }
 
 
-
+/* kleur navigatie bars */
 
 a:link {
 	text-decoration: none;
@@ -114,7 +115,7 @@ nav {
 }
 
 
-
+/* grote en form van media */
 
 #Googlemaps {
 	border: 1px solid black;
