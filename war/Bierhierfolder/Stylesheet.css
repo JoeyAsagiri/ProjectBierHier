@@ -117,3 +117,11 @@ header {
 #kleur{
 	background-color: lightyellow;
 }
+#bloggrotetekst{
+	font-family: 'Bevan', cursive;
+	color: darkred;
+}
+#blogkleinetekst{
+	font-family: 'Alegreya Sans SC', sans-serif;
+	color: darkgrey;
+}
