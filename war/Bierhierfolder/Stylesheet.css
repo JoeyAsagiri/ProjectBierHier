@@ -69,15 +69,26 @@ header {
 	height: 230px;
 }
 <!--Sportevenementen in Almere-->
-#h1 {
+
+#groteletters {
 	font-family: 'Bree Serif', serif;
 	background-color: white;
 }
-#p {
+#kleineletters {
 	font-family: 'Josefin Sans', sans-serif;
 	background-color: white;
 }
+#blauweNav{background-color:blue;}
+#groeneNav{background-color:green;}
+#rodeNav{background-color:red;}
+#poepNav{background-color:brown;}
+
 #filmpje {
-	width: 500; 
-	height: 500;
+	width: 500px; 
+	height: 500px;
+	margin-left: 50px;
+}
+#afbeelding {
+	width: 500px; 
+	height: 500px;
 }
