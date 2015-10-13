@@ -1,36 +1,36 @@
+html {
+	min-width: 1220px;
+}
 footer {
- clear: both;
- text-align: center;
- background-color: #808080;
+	clear: both;
+	text-align: center;
+	background-color: #808080;
 }
 h1 {
- font-family: 'Oswald', sans-serif;
- background-color: lightgrey;
+	font-family: 'Oswald', sans-serif;
+	background-color: lightgrey;
 }
 p { 
- font-family: 'Raleway', sans-serif;
+	font-family: 'Raleway', sans-serif;
 }
 a:link {
- text-decoration: none;
-
+	text-decoration: none;
 }
 a:visited{
 	color: white;
+	text-decoration: none;
 }
 footer a:link, nav a:link {
- font-family: 'Oswald', sans-serif;
- color: white;
-
+	font-family: 'Oswald', sans-serif;
+	color: white;
 }
-
 footer {
 	margin-left: -8px;
 	margin-right: -8px;
 }
 nav {
-margin-top: -22px;
-margin-right: -8px;
-
+	margin-top: -22px;
+	margin-right: -8px;
 }
 #Googlemaps {
 	border: 1px solid black;
@@ -38,19 +38,37 @@ margin-right: -8px;
 	width: 1000px;
 	height: 400px;
 }
-
 header {
 	margin-top: -21px;
 	margin-left: -8px;
 	margin-right: -8px;
 }
-
+#plaatjesmettekst {
+	margin: 15px;
+	margin-left: 30%;
+}
+#plaatjes {
+	margin: 5px;
+	border: 1px solid black;
+	width: 300px;
+	height: 175px;
+	text-align: center;
+}
+#plaatjes img{
+	width: 300px;
+	height: 150px;
+}
+#plaatjesrechts {
+	margin-top: -364px;
+	margin-left: 320px;
+}
 #concert {
+	border: 1px solid black;
 	margin-left: -5px;
-	
+	width: 420px;
+	height: 230px;
 }
 <!--Sportevenementen in Almere-->
-
 #h1 {
 	font-family: 'Bree Serif', serif;
 	background-color: white;
