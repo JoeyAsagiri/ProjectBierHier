@@ -26,6 +26,14 @@ footer {
 	font-family: 'Raleway', sans-serif;
 	color: black;
 }
+#receptnav{
+	font-family: 'Russo One', sans-serif;
+	color: black;
+}
+#recepttekst{
+	font-family: 'Varela', sans-serif;
+	color: black;
+}
 a:link {
 	text-decoration: none;
 }
@@ -105,4 +113,6 @@ header {
 	font-family: 'Josefin Sans', sans-serif;
 	color: darkgrey;
 }
-
+#kleur{
+	background-color: lightyellow;
+}
