@@ -22,7 +22,6 @@ footer {
 	font-family: 'Archivo Black', sans-serif;
 	color: darkblue;
 }
-
 #Google { 
 	font-family: 'Raleway', sans-serif;
 	color: black;
@@ -89,20 +88,7 @@ header {
 #rodeNav{background-color:red;}
 #poepNav{background-color:brown;}
 
-<!--Sportevenementen in Almere-->
-
-#groteletters {
-	font-family: 'Bree Serif', serif;
-	background-color: white;
-	color: darkblue;
-}
-#kleineletters {
-	font-family: 'Josefin Sans', sans-serif;
-	background-color: white;
-	color: darkgrey;
-}
-
-#filmpje {
+#youtube {
 	width: 500px; 
 	height: 500px;
 	margin-left: 50px;
@@ -110,5 +96,13 @@ header {
 #afbeelding {
 	width: 500px; 
 	height: 500px;
+}
+#sportnav{
+	font-family: 'Bree Serif', serif;
+	color: darkblue;
+}
+#sporttekst{
+	font-family: 'Josefin Sans', sans-serif;
+	color: darkgrey;
 }
 
