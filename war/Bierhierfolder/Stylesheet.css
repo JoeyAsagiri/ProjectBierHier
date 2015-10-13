@@ -2,72 +2,88 @@ html {
 	min-width: 1220px;
 }
 
-<!--css voor footer van elke pagina-->
 
 footer {
 	clear: both;
 	text-align: center;
 	background-color: #808080;
 }
+
 footer a:link, nav a:link {
 	font-family: 'Oswald', sans-serif;
 	color: white;
 }
+
 footer {
 	margin-left: -8px;
 	margin-right: -8px;
 }
-<!--fonts voor elke pagina-->
+
+
+
 #contactnav {
 	font-family: 'Oswald', sans-serif;
 	color: darkgrey;
 }
-#concertnav{
+
+#concertnav {
 	font-family: 'Montserrat', sans-serif;
 	color: darkgrey;
 }
-#concerttekst{
+
+#concerttekst {
 	font-family: 'Droid Serif', serif;
 	color: darkgrey;
 }
-#restaurantnav{
+
+#restaurantnav {
 	font-family: 'Archivo Black', sans-serif;
 	color: darkblue;
 }
-#Google { 
+
+#Google {
 	font-family: 'Raleway', sans-serif;
 	color: black;
 }
-#receptnav{
+
+#receptnav {
 	font-family: 'Russo One', sans-serif;
 	color: black;
 }
-#recepttekst{
+
+#recepttekst {
 	font-family: 'Varela', sans-serif;
 	color: black;
 }
-#bloggrotetekst{
+
+#bloggrotetekst {
 	font-family: 'Bevan', cursive;
 	color: darkred;
 }
-#sportnav{
+
+#sportnav {
 	font-family: 'Bree Serif', serif;
 	color: darkblue;
 }
-#sporttekst{
+
+#sporttekst {
 	font-family: 'Josefin Sans', sans-serif;
 	color: darkgrey;
 }
-#blogkleinetekst{
+
+#blogkleinetekst {
 	font-family: 'Alegreya Sans SC', sans-serif;
 	color: darkgrey;
 }
-<!--Navigatie bar kleuren en locatie-->
+
+
+
 
 a:link {
 	text-decoration: none;
 }
-a:visited{
+
+a:visited {
 	color: white;
 	text-decoration: none;
 }
@@ -77,13 +93,28 @@ nav {
 	margin-right: -8px;
 }
 
-#blauweNav{background-color:blue;}
-#groeneNav{background-color:green;}
-#rodeNav{background-color:red;}
-#poepNav{background-color:brown;}
-#kankerNav{background-color:black;}
+#blauweNav {
+	background-color: blue;
+}
 
-<!--Form plaatjes en filmpjes-->
+#groeneNav {
+	background-color: green;
+}
+
+#rodeNav {
+	background-color: red;
+}
+
+#bruinNav {
+	background-color: brown;
+}
+
+#zwartNav {
+	background-color: black;
+}
+
+
+
 
 #Googlemaps {
 	border: 1px solid black;
@@ -91,16 +122,19 @@ nav {
 	width: 1000px;
 	height: 400px;
 }
+
 header {
 	margin-top: -21px;
 	margin-left: -8px;
 	margin-right: -8px;
 }
+
 #plaatjesmettekst {
 	margin: 15px;
 	margin-left: 30%;
 	font-family: 'Josefin Sans', sans-serif;
 }
+
 #plaatjes {
 	margin: 5px;
 	border: 1px solid black;
@@ -108,14 +142,17 @@ header {
 	height: 175px;
 	text-align: center;
 }
-#plaatjes img{
+
+#plaatjes img {
 	width: 300px;
 	height: 150px;
 }
+
 #plaatjesrechts {
 	margin-top: -364px;
 	margin-left: 320px;
 }
+
 #concert {
 	border: 1px solid black;
 	margin-left: -5px;
@@ -124,14 +161,16 @@ header {
 }
 
 #youtube {
-	width: 500px; 
+	width: 500px;
 	height: 500px;
 	margin-left: 50px;
 }
+
 #afbeelding {
-	width: 500px; 
+	width: 500px;
 	height: 500px;
 }
-#kleur{
+
+#kleur {
 	background-color: lightyellow;
 }
